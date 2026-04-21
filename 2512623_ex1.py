@@ -1,5 +1,6 @@
 #수정해보기
 #git clone practice
+#git clone p
 import random
 
 
